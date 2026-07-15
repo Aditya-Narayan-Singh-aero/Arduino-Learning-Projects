@@ -22,3 +22,6 @@ To understand the fundamentals of circuit building and basic Arduino programming
 
 ### Code Summary
 This program defines pins 11, 12, and 13 as `OUTPUT`. It executes a sequential blinking pattern using `digitalWrite()` and `delay()` commands to control the timing of each flash.
+
+### Project Demonstration
+[Click here to watch the Project 1: Sequential LED Blink in action](https://youtu.be/Dxqsr_FMAto?si=kG8N8U5BzUMrgdG6)
